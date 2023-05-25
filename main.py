@@ -39,7 +39,7 @@ def down():
 up()
 
 
-# by @davo-6670
+# the following is by @davo-6670
 # true = False
 # false = True
 # while false:
