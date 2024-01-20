@@ -22,7 +22,7 @@ def up():
     except RecursionError:
         sys.exit()
 
-def down(currentHmmmmmm):
+def down():
     try:
         for i in range(length):
             time.sleep(delay)
